@@ -1,4 +1,4 @@
-App oficial para la Semana de la Ingeniería, desarrollada con Material Design 3 según los requisitos del proyecto universitario.
+App para la Semana de la Ingeniería, desarrollada con Material Design 3 según los requisitos solicitados.
 
 ✨ Interfaz moderna con:
 
